@@ -1,0 +1,11 @@
+D:\проги\Test_Severstal\Test_Severstal\bin\Debug\Test_Severstal.exe.config
+D:\проги\Test_Severstal\Test_Severstal\bin\Debug\Test_Severstal.exe
+D:\проги\Test_Severstal\Test_Severstal\bin\Debug\Test_Severstal.pdb
+D:\проги\Test_Severstal\Test_Severstal\obj\Debug\Test_Severstal.csproj.AssemblyReference.cache
+D:\проги\Test_Severstal\Test_Severstal\obj\Debug\Test_Severstal.Properties.Resources.resources
+D:\проги\Test_Severstal\Test_Severstal\obj\Debug\Test_Severstal.csproj.GenerateResource.cache
+D:\проги\Test_Severstal\Test_Severstal\obj\Debug\Test_Severstal.csproj.CoreCompileInputs.cache
+D:\проги\Test_Severstal\Test_Severstal\obj\Debug\Test_Severstal.exe
+D:\проги\Test_Severstal\Test_Severstal\obj\Debug\Test_Severstal.pdb
+D:\проги\Test_Severstal\Test_Severstal\obj\Debug\Test_Severstal.Notepad.resources
+D:\проги\Test_Severstal\Test_Severstal\obj\Debug\Test_Severstal.StartForm.resources
